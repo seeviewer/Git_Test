@@ -3,3 +3,4 @@
 .exe
 .a
 .so
+/VSCode_Gen_Ignore_File/*.exe
